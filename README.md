@@ -1,4 +1,4 @@
-## Camilla Greene  
+# Camilla Greene  
 
 I am a passionate and ambitious Full Stack Software Developer and recent graduate of Makers Academy. Following a successful and impactful eight year journey as a teacher, where I progressed to middle management with responsibility for the training and mentoring of newly qualified teachers, I am now eager to conquer a new challenge. The emphasis on personal growth, learning new skills, creativity and flexibility are a few of the many things that excite me about a career as a developer. 
 
@@ -8,8 +8,20 @@ Throughout my studies at Makers Academy I have opened myself up to learning a wi
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **PantryPal**            | A webapp that generates recipes for you based on what you have in your cupboard x. | React, Jest, Express, MongoDB Node.js |
+| [**PantryPal**](https://github.com/EdCope/pantrypal)            | A webapp that generates recipes for you based on what you have in your cupboard x. | React, Jest, Express, MongoDB Node.js |
 | **Chitter Challenge** | A Twitter clone called Chitter - users can post ‘peeps’ to their timeline. | Ruby, PostgreSQL              |
+
+## Skills
+
+### Culture Carrier
+
+Well known for my positive outlook and keen desire to improve and move forward, I used my position as Associate Middle Leader whilst teaching to advocate for the colleagues in my office by raising their concerns to Senior Leaders along with solutions to problems such as workload and burnout. Similarly, Whilst studying at Makers Academy I identified when my peers were struggling with the intense pace of the course and offered support and a friendly ear. During group projects I often acted as Scrum Master encouraging and leading retrospectives, communicating openly, clarifying group goals to keep the team on track and ensuring everyone was able to give input to the project. Project manageament tool manitenance was something I often took responsibility for and ensured was kept up to date. As a result my group projects such as [PantryPal](https://github.com/EdCope/pantrypal) were well planned and organised and there was a great deal of camaraderie and mutual respect amongst the team. 
+
+### Self Motivated
+Transitioning from a near decade long career in education to Software Engineering has not been an easy feat but when I set my mind to something I dedicate my time, best effort and resources to completing the goal. Being highly self motivated has enabled me to set timely, achievable and realistic goals that I can successfully work towards. Throughout my training at Makers Academy I have set myself challenges to research and learn different languages and frameworks and understand the day to day life of a Software Engineer through podcasts and networking events. I use a range of project management tools to track my learning and the progress of group projects so that each step is clearly defined and achievable. Throughout the course I have been proactive in asking for feedback on projects and using the guidance to push myself to new heights. In addition to making me a resilient and lifelong learner, my organised and clearly communicated approach strengthens my relationship with my teammates and aides the successful completion of group and solo projects. 
+
+### Methodical
+Much like teaching, coding requires you to plan with the end in mind. My logical and methodical approach to problem solving encourages me to break down problems into manageable pieces in order to move forward confidently. When working in a team or for clients my attention to detail has helped me to highlight bugs and errors and my clarification of finer details has enabled me to understand the problems that have arisen as well as a solid idea of the client’s expectations. Being patient and adaptable in solo, pair and group work also allows me to experiment with different solutions to problems and work in a well structured manner to successfully complete projects. My training at Makers has embedded a strong understanding of Test Driven Development and the importance of high test coverage. As a result I am able to produce easy to read and change code that enables me to scale projects up with less risk of bugs and errors.
 
 ## Work Experience
 
@@ -35,48 +47,21 @@ Supported staff as an inhouse supply teacher working across a range of departmen
 Gained an understanding of the organizational structure of schools and individual departments.
 Trained new colleagues in best practice for managing the classroom. 
 
-
-## Skills
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-
-#### This Skill Data Analysis
-
-- A key focus of my role as an Associate Leader was to improve the results and uptake of my program. This results driven target enabled me to gather data on my cohort, assess and analyze the projected outcomes, putt together a plan of action implemented by staff within my programme and drive forward results within a strict time period. This resulted in my program receiving its highest recorded results and demand from students skyrocketing.
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of
- how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (January 2022 to April 2022)
+An intensive and highly selective 16 week coding programme.
+- Fullstack web development 
+- Frequent Pair programming to build projects, problem solve efficiently and debug code with a focus on working agilely.
+- Group projects focusing on high quality work with clean, buildable code and effective teamwork.
+- The fundamentals of Object, Oriendted Programming, Test Driven Development and Model, View, Controller framework 
+- Project Management of group work using tools such as Kanban board and GitHub Projects
+- Ruby (RSpec, Capybara, Sinatra)
+- JavaScript (Jest, Node, React, Express, Cypress)
+- SQL (PostgreSQL, TablePlus)
+- No SQL (MongoDB)
+- RESTful APIs (Postman)
+
 
 #### Your University / College (start_date to end_date)
 
