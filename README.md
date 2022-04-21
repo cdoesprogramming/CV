@@ -58,10 +58,10 @@ Trained new colleagues in best practice for managing the classroom.
 #### Makers Academy (January 2022 to April 2022)
 An intensive and highly selective 16 week coding programme.
 - Fullstack web development 
-- Frequent Pair programming to build projects, problem solve efficiently and debug code with a focus on working agilely.
+- Frequent pair programming to build projects, problem solve efficiently and debug code with a focus on working agilely.
 - Group projects focusing on high quality work with clean, buildable code and effective teamwork.
-- The fundamentals of Object, Oriendted Programming, Test Driven Development and Model, View, Controller framework 
-- Project Management of group work using tools such as Kanban board and GitHub Projects
+- The fundamentals of Object, Oriented Programming, Test Driven Development and Model, View, Controller framework. 
+- Project Management of group work using tools such as Kanban board and GitHub Projects.
 - Ruby (RSpec, Capybara, Sinatra)
 - JavaScript (Jest, Node, React, Express, Cypress)
 - SQL (PostgreSQL, TablePlus)
@@ -69,16 +69,18 @@ An intensive and highly selective 16 week coding programme.
 - RESTful APIs (Postman)
 
 
-#### Your University / College (start_date to end_date)
+#### UCL - Institute of Education (September 2015 to August 2016)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- PostGraduate Certification of Education in English
+- Pass with credits towards Masters in Education
 
-#### Any other qualifications
+#### Brunel University - College of Business, Arts and Social Sciences (September 2010 to August 2013)
 
-That in some arguable way make you a better software developer or well-rounded person
+- BA English
+- 2.1
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Keen travellor (I once spent a week in survival school in the Bornean Jungle)
+- Spinning enthusiast 
+- Love reading any book with a page turning plot
