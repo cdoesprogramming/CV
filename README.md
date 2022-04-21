@@ -8,8 +8,9 @@ Throughout my studies at Makers Academy I have opened myself up to learning a wi
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| [**PantryPal**](https://github.com/EdCope/pantrypal)            | A webapp that generates recipes for you based on what you have in your cupboard x. | React, Jest, Express, MongoDB Node.js |
-| **Chitter Challenge** | A Twitter clone called Chitter - users can post ‘peeps’ to their timeline. | Ruby, PostgreSQL              |
+| [**PantryPal**](https://github.com/EdCope/pantrypal)            | A webapp that generates recipes for you based on what you have in your cupboard. | React, Jest, Express, MongoDB Node.js |
+| [**Takeaway Challenge**](https://github.com/cdoesprogramming/takeaway-challenge)| A program that allows a user to view and order dishes from a restaurant.| Ruby, Rspec|
+| **Chitter Challenge** | A Twitter clone called Chitter. | Ruby, PostgreSQL              |
 
 ## Skills
 
