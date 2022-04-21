@@ -1,27 +1,26 @@
 # Camilla Greene  
 
 I am a passionate and ambitious Full Stack Software Developer, specialising in Ruby, Javascript and React. 
-Following a successful and impactful eight year journey as a teacher, where I progressed to middle management responsibile for training and mentoring, I have recently graduated from Makers Academy and am eager to conquer new challenges as a Software Developer. 
+Following a successful and impactful eight year journey as a teacher, where I progressed to middle management responsible for training and mentoring, I have recently graduated from Makers Academy and am eager to conquer new challenges as a Software Developer. 
 
-Whilst at Makers I developed my ability to write clean, readable and changeable code using Test Driven Development that meets client expectations. My time-keeping and project management is excellent and ensures that deadlines are met.
+Whilst at Makers I developed my ability to write clean, readable and changeable code using Test Driven Development that meets client expectations. My time-keeping and project management is excellent and ensures that deadlines are met on time.
 
 Making an impact and contributing to communities is an important value to me. The opportunity to learn, interact with others and make a difference to people’s lives, regardless of how small, is a common thread amongst the work that I value. As a Software developer I have the ability to build and add to features that improve people’s lives and get to work with a fantastic community whilst doing so.
 
-I am excited to work on challenging and engaging projects that improves my skills as a full stack developer within a successful and ambitious team.
+I am excited to work on challenging and engaging projects that improve my skills as a full stack developer within a successful and ambitious team.
  
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| [**PantryPal**](https://github.com/EdCope/pantrypal)            | A webapp that generates recipes for you based on what you have in your cupboard. | React, Jest, Express, MongoDB Node.js |
+| [**PantryPal**](https://github.com/EdCope/pantrypal)            | An app that generates recipes for you based on what you have in your cupboard. | React, Jest, Express, Cypress, MongoDB Node.js |
 | [**Takeaway Challenge**](https://github.com/cdoesprogramming/takeaway-challenge)| A program that allows a user to view and order dishes from a restaurant.| Ruby, Rspec|
 | **Chitter Challenge** | A Twitter clone called Chitter. | Ruby, PostgreSQL              |
 
 ## Skills
 
 ### Culture Carrier
-
-Well known for my positive outlook and keen desire to improve and move forward, I used my position as Associate Middle Leader whilst teaching to advocate for the colleagues in my office by raising their concerns to Senior Leaders along with solutions to problems such as workload and burnout. Similarly, Whilst studying at Makers Academy I identified when my peers were struggling with the intense pace of the course and offered support and a friendly ear. During group projects I often acted as Scrum Master encouraging and leading retrospectives, communicating openly, clarifying group goals to keep the team on track and ensuring everyone was able to give input to the project. Project manageament tool manitenance was something I often took responsibility for and ensured was kept up to date. As a result my group projects such as [PantryPal](https://github.com/EdCope/pantrypal) were well planned and organised and there was a great deal of camaraderie and mutual respect amongst the team. 
+Well known for my positive outlook and keen desire to improve and move forward, during group projects I often acted as Scrum Master encouraging and leading retrospectives, communicating openly, clarifying group goals to keep the team on track and ensuring everyone was able to give input to the project. Project management tool maintenance was something I often took responsibility for and ensured was kept up to date. As a result my group projects such as [PantryPal](https://github.com/EdCope/pantrypal) were well planned and organised and there was a great deal of camaraderie and mutual respect amongst the team. I used my position as Associate Middle Leader whilst teaching to advocate for the colleagues in my office by raising their concerns to Senior Leaders along with solutions to problems such as workload and burnout. Similarly, Whilst studying at Makers Academy I identified when my peers were struggling with the intense pace of the course and offered support and a friendly ear.
 
 ### Methodical
 Much like teaching, coding requires you to plan with the end in mind. My logical and methodical approach to problem solving encourages me to break down problems into manageable pieces in order to move forward confidently. When working in a team or for clients my attention to detail has helped me to highlight bugs and errors and my clarification of finer details has enabled me to understand the problems that have arisen as well as a solid idea of the client’s expectations. Being patient and adaptable in solo, pair and group work also allows me to experiment with different solutions to problems and work in a well structured manner to successfully complete projects. My training at Makers has embedded a strong understanding of Test Driven Development and the importance of high test coverage. As a result I am able to produce easy to read and change code that enables me to scale projects up with less risk of bugs and errors.
@@ -65,6 +64,7 @@ An intensive and highly selective 16 week coding programme.
 - Ruby (RSpec, Capybara, Sinatra)
 - JavaScript (Jest, Node, React, Express, Cypress)
 - SQL (PostgreSQL, TablePlus)
+- HTML & CSS
 - No SQL (MongoDB)
 - RESTful APIs (Postman)
 
