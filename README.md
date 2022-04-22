@@ -48,9 +48,9 @@ _English Teacher_
 **The Holy Cross School, Surrey** (October 2013 - August 2015)  
 _Cover Supervisor_
 
-Supported staff as an inhouse supply teacher working across a range of departments.
-Gained an understanding of the organizational structure of schools and individual departments.
-Trained new colleagues in best practice for managing the classroom. 
+- Supported staff as an inhouse supply teacher working across a range of departments.
+- Gained an understanding of the organizational structure of schools and individual departments.
+- Trained new colleagues in best practice for managing the classroom. 
 
 ## Education
 
